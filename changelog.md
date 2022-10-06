@@ -1,3 +1,29 @@
+## Creator's Delight v0.3
+
+#### (Oct 6 2022)
+
+**Forge Version:**
+43.1.33
+
+**Updated mods:**
+* AI Improvements
+* Blueprint
+* Comforts (Forge)
+* Farsight [Forge]
+* FramedBlocks
+* GeckoLib
+* Moonlight Lib
+* Sophisticated Core
+* Structure Gel API
+* Vein Mining (Forge)
+
+**Added mods:**
+* Cooking for Blockheads
+* Inventory Essentials
+* Inventory Sorter
+* LibX
+* Simply Tools
+
 ## Creator's Delight v0.2
 
 #### (Oct 2 2022)
