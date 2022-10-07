@@ -3,7 +3,7 @@
 #### (Oct 6 2022)
 
 **Forge Version:**
-43.1.33
+* 43.1.33
 
 **Updated mods:**
 * AI Improvements
