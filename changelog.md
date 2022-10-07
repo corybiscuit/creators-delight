@@ -9,7 +9,7 @@
 * AI Improvements
 * Blueprint
 * Comforts (Forge)
-* Farsight [Forge]
+* Farsight (Forge)
 * FramedBlocks
 * GeckoLib
 * Moonlight Lib
