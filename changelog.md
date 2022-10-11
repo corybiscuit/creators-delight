@@ -1,3 +1,35 @@
+## Creator's Delight v0.4
+
+#### (Oct 10 2022)
+
+**Forge Version:**
+* 43.1.34
+
+**Updated mods:**
+* Additional Additions | Forge
+* Create Plus
+* Enchantment Descriptions
+* Oh The Biomkes You'll Go
+* Open Parties and Claims
+* Spice of Life: Sweet Potato Edition
+* Supplementaries
+* Terralith
+
+**Added mods:**
+* Berry Good
+* Collective (Forge)
+* Create Chunkloading
+* Create Confectionary
+* Create Stuff & Additions
+* MoreVanillaTools
+* Neapolitan
+* Ring of Attraction [FORGE]
+* Ring of Return [FORGE]
+* Ring of Teleport [FORGE]
+* Simple Storage Mod
+* Stack Refill
+* Waystones
+
 ## Creator's Delight v0.3
 
 #### (Oct 6 2022)
