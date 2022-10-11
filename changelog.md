@@ -3,7 +3,7 @@
 #### (Oct 10 2022)
 
 **Forge Version:**
-* 43.1.34
+* 43.1.33
 
 **Updated mods:**
 * Additional Additions | Forge
