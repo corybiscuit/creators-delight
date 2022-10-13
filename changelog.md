@@ -1,3 +1,28 @@
+## Creator's Delight v0.5
+
+#### (Oct 12 2022)
+
+**Forge Version:**
+* 43.1.34
+
+**Updated mods:**
+* Bookshelf
+* Collective (Forge)
+* Konkrete [Forge]
+* Moonlight Lib
+* Oh The Biomes You'll Go
+* Supplementaries
+* Xaero's Minimap
+* Xaero's World Map
+
+**Added mods:**
+* Chunk Loaders
+* Little Logistics
+
+**Removed mods:**
+* Oculus (causes crashes when used with Create on some systems)
+* Open Parties and Claims
+
 ## Creator's Delight v0.4
 
 #### (Oct 10 2022)
@@ -56,7 +81,7 @@
 * LibX
 * Simply Tools
 
-## Creator's Delight v0.2
+        ## Creator's Delight v0.2
 
 #### (Oct 2 2022)
 
