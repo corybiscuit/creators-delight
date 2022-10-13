@@ -17,6 +17,7 @@
 
 **Added mods:**
 * Chunk Loaders
+* Construction Wands
 * Little Logistics
 
 **Removed mods:**
