@@ -1,3 +1,30 @@
+## Creator's Delight v0.6
+
+#### (Oct 16 2022)
+
+**Forge Version:**
+* 43.1.43
+
+**Updated mods:**
+* Collective (Forge)
+* FramedBlocks
+* GeckoLib
+* Just Enough Items (JEI)
+* Konkrete [Forge]
+* Moonlight Lib
+* Spice of Life: Sweet Potato Edition
+* Structure Gel API
+
+**Added mods:**
+* YUNG's API (Forge)
+* YUNG's Better Desert Temples (Forge)
+* YUNG's Better Dungeons (Forge)
+* YUNG's Better Mineshafts (Forge)
+* YUNG's Better Strongholds (Forge)
+* YUNG's Better Witch Huts (Forge)
+* YUNG's Bridges (Forge)
+* YUNG's Extras (Forge)
+
 ## Creator's Delight v0.5
 
 #### (Oct 13 2022)
@@ -82,7 +109,7 @@
 * LibX
 * Simply Tools
 
-        ## Creator's Delight v0.2
+## Creator's Delight v0.2
 
 #### (Oct 2 2022)
 
