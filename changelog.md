@@ -1,3 +1,37 @@
+## Creator's Delight v0.7
+
+#### (Oct 25 2022)
+
+**Forge Version:**
+* 43.1.47
+
+**Updated mods:**
+* Architectury API (Fabric/Forge)
+* Bookshelf
+* Collective (Forge)
+* Controlling
+* Enchantment Descriptions
+* FancyMenu [Forge]
+* Functional Storage
+* GeckoLib
+* Jade
+* Just Enough Items
+* Konkrete [Forge]
+* LibX
+* Moonlight Lib
+* Patchouli
+* Rubidium Extra
+* Simply Tools
+* Sophisticated Core
+* Structory
+* Supplementaries
+* YUNG's API (Forge)
+* YUNG's Better Desert Temples (Forge)
+* YUNG's Better Dungeons (Forge)
+
+**Added mods:**
+* Create Crafts & Additions
+
 ## Creator's Delight v0.6
 
 #### (Oct 16 2022)
