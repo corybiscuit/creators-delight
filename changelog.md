@@ -1,3 +1,42 @@
+## Creator's Delight v0.8
+
+#### (Nov 12 2022)
+
+**Forge Version:**
+* 43.1.52
+
+**Updated mods:**
+* Aquaculture 2
+* Bookshelf
+* Collective (Forge)
+* Cooking for Blockheads
+* Create Crafts & Additions
+* FancyMenu [Forge]
+* FramedBlocks
+* GeckoLib
+* Jade
+* Just Enough Items (JEI)
+* Just Enough Resources (JER)
+* LibX
+* Little Logistics
+* Moonlight Lib
+* Rubidium Extra
+* ShetiPhianCore
+* Simple Discord Rich Presence (Forge)
+* Supplementaries
+* TerraBlender (Forge)
+* TexTrue's Rubidium Options
+* The Conjurer
+* Towns and Towers
+* Xaero's Minimap
+* Xaero's World Map
+* YUNG's Better Dungeons (Forge)
+
+**Added mods:**
+* CC: Tweaked
+* Farmer's Respite
+* FastSuite
+
 ## Creator's Delight v0.7
 
 #### (Oct 25 2022)
